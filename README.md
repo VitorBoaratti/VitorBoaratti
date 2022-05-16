@@ -21,6 +21,6 @@
   <a href = "mailto:boarattivitor@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-boaratti-29a03117b/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/VitorBoaratti/VitorBoaratti/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/VitorBoaratti/blob/output/github-contribution-grid-snake.svg)
  
 </div>
